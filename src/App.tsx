@@ -1,9 +1,8 @@
 import React from 'react'
+import Profile from './Profile'
 
 const App = (): JSX.Element => {
-  return (
-    <h1>Hello world</h1>
-  )
+  return <Profile />
 }
 
 export default App
